@@ -20,4 +20,4 @@ Código para ver los resultados de Google Dorks: [intitle:"index of" mercadolibr
 
 Página de hunter.io: [https://hunter.io/search/mercadolibre.com](https://hunter.io/search/mercadolibre.com)
 
-## **Alcance:** (https://github.com/carlosra0098/know-your-target/blob/main/alcance.md) 
+## **Alcance:** [https://github.com/carlosra0098/know-your-target/blob/main/alcance.md](https://github.com/carlosra0098/know-your-target/blob/main/alcance.md) 
