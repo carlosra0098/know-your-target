@@ -196,7 +196,7 @@ WHOIS data last fetched October 14, 2026
 curl.exe -H "X-API-Key: c33b6d8fcde07151f24b208c8f1a7aa6cc571074e84865b7ff73d992ec5bb8cf" https://api.dnsdumpster.com/domain/mercadolibre.com
 # Se reciben varios servidores de nombres, correos, TXT.
 ```
-![[Pasted image 20261103122817.png]]
+![[Pasted image 20261103122817.png]](https://github.com/carlosra0098/know-your-target/blob/main/anexos/Pasted%20image%2020261103122817.png)
 
 -------------------------
 # Subdominios
