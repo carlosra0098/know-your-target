@@ -19,3 +19,5 @@ Página de Shodan: [https://www.shodan.io/search?query=mercadolibre.com](https:/
 Código para ver los resultados de Google Dorks: [intitle:"index of" mercadolibre.com --> https://compras-mercadolibre.com/](intitle:"index of" mercadolibre.com --> https://compras-mercadolibre.com/)
 
 Página de hunter.io: [https://hunter.io/search/mercadolibre.com](https://hunter.io/search/mercadolibre.com)
+
+## **Alcance:** (https://github.com/carlosra0098/know-your-target/blob/main/alcance.md) 
