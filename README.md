@@ -2,7 +2,7 @@
 
 Carlos Luis Ramos García
 
-Empresa elegida: mercado libre --> [https://www.mercadolibre.com](https://www.mercadolibre.com/)
+Objetivo elegido: mercado libre --> [https://www.mercadolibre.com](https://www.mercadolibre.com/)
 
 Página hackerone de mercadolibre: [https://hackerone.com/mercadolibre](https://hackerone.com/mercadolibre) y [https://hackerone.com/mercadolibre/policy_scopes](https://hackerone.com/mercadolibre/policy_scopes)
 
