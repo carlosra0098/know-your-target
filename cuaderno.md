@@ -2,7 +2,7 @@
 https://hackerone.com/mercadolibre
 https://hackerone.com/mercadolibre/policy_scopes
 
-**Fecha de consulta:** 03/11/2026
+**Fecha de consulta:** 2026/11/03
 
 ### 1. Qué está dentro y fuera del alcance
 
@@ -83,7 +83,7 @@ https://hackerone.com/mercadolibre/policy_scopes
 ---
 # whois
 ``` bash
-09:30:24
+2026/11/03 09:30:24 - objetivo: mercadolibre.com
 https://who.is/whois/mercadolibre.com
 ```
 mercadolibre.com
@@ -192,7 +192,7 @@ WHOIS data last fetched October 14, 2026
 # DNSDumpster
 
 ``` bash
-10:33:51 
+2026/11/03 10:33:51 - objetivo: mercadolibre.com
 curl.exe -H "X-API-Key: c33b6d8fcde07151f24b208c8f1a7aa6cc571074e84865b7ff73d992ec5bb8cf" https://api.dnsdumpster.com/domain/mercadolibre.com
 # Se reciben varios servidores de nombres, correos, TXT.
 ```
@@ -202,7 +202,7 @@ curl.exe -H "X-API-Key: c33b6d8fcde07151f24b208c8f1a7aa6cc571074e84865b7ff73d992
 # Subdominios
 
 ``` bash
-10:54:28
+2026/11/03 10:54:28 - objetivo: mercadolibre.com
 subfinder -silent -d mercadolibre.com
 # Se reciben todos los subdominios que tiene el dominio.
 ```
@@ -689,6 +689,7 @@ dc4-iron05-e.mercadolibre.com
 appstore.mercadolibre.com
 
 compra.mercadolibre.com
+
 centrodepartners.mercadolibre.com
 
 iron06-b.mercadolibre.com
@@ -809,7 +810,7 @@ ns1.mercadolibre.com
 # Huella tecnológica
 
 ``` bash
-12:05:40
+2026/11/03 12:05:40 - objetivo: mercadolibre.com
 https://sitereport.netcraft.com/?url=https://mercadolibre.com
 # Hosting, CDN/WAF, tecnologías, histórico a través de netcraft.
 ```
@@ -824,7 +825,7 @@ https://sitereport.netcraft.com/?url=https://mercadolibre.com
 # Ficheros expuestos
 
 ``` bash
-12:12:46
+2026/11/03 12:12:46 - objetivo: mercadolibre.com
 curl -s https://mercadolibre.com/robots.txt
 curl -s https://mercadolibre.com/.well-known/security.txt
 # Rutas que el dueño no quiere indexar.
@@ -861,6 +862,7 @@ Allow: /jms/*/lgz/msl/login/
 
 
 ``` bash
+2026/11/03 12:26:40 - objetivo: mercadolibre.com
 https://www.shodan.io/search?query=mercadolibre.com
 # Puertos y servicios visibles sin tocar nada.
 ```
@@ -871,7 +873,7 @@ https://www.shodan.io/search?query=mercadolibre.com
 # Google dorks
 
 ``` bash
-12:45:20
+2026/11/03 12:45:20 - objetivo: mercadolibre.com
 intitle:"index of" mercadolibre.com --> https://compras-mercadolibre.com/
 # Documentos, paneles, directorios indexados.
 ```
@@ -884,7 +886,7 @@ Al haber buscado en Google por _intitle:"index of" mercadolibre.com_, aparece un
 # Correos
 
 ``` bash
-12:53:54
+2026/11/03 12:53:54 - objetivo: mercadolibre.com 
 https://hunter.io/search/mercadolibre.com
 # Correos y patrón de correo corporativo.
 ```
