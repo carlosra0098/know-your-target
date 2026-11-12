@@ -29,3 +29,5 @@ Página de hunter.io: [https://hunter.io/search/mercadolibre.com](https://hunter
 ## [**scoop**](https://github.com/carlosra0098/know-your-target/blob/main/scoop.txt)
 
 ## [**comparativa**](https://github.com/carlosra0098/know-your-target/blob/main/comparativa.md)
+
+## [**agente**](https://github.com/carlosra0098/know-your-target/tree/main/agente)
