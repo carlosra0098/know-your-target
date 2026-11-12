@@ -1,6 +1,6 @@
 # Comparativa: reconocimiento manual vs. agente (`mercadolibre.com`)
 
-Fuentes: `mapa.md` (reconocimiento manual), `informe.md` e `traza.jsonl` (agente `corsario-1`) y `pruebas.md`.
+Fuentes: `mapa.md` (reconocimiento manual), `informe.md` y `traza.jsonl` (agente `aap-base`) y `pruebas.md`.
 
 ---
 
